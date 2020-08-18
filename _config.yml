@@ -13,15 +13,18 @@ author: Jungwook Kim
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
   알고리즘:
     - 백준: category/algorithm
     - swexpert: category/swexpert
-  Java:
-    - 자바:
-  tag_dir: tag/
+  프로그래밍:
+    - 자바: category/java
+	- html: category/html
+  simple project:
+    - 채팅: category/chatting
+    - github.io: category/blog
+  독서:
+    - 당신 지식의 한계 세계관: category/segyegwan
+  태그검색: tag/
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
