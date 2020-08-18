@@ -9,3 +9,4 @@ title: algorithm
 {{ page.titlebv }}
 {{ page.categorybv }}
 {{ site.catrgories[catrgories] }}
+{{ site.catrgories[catrgories] }}
