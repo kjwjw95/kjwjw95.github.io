@@ -18,7 +18,7 @@ navbar-links:
     - swexpert: category/swexpert
   프로그래밍:
     - 자바: category/java
-	- html: category/html
+    - html: category/html
   simple project:
     - 채팅: category/chatting
     - github.io: category/blog
