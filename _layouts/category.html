@@ -7,7 +7,7 @@ layout: default
 {{ page.category }}
 <ul class="posts-list">
   
-  {% assign category = page.category | default: page.title %}
+  {% assign category = page.title | default: page.title %}
   {% for post in site.catrgories[category] %}
     <li>
       <h3>
