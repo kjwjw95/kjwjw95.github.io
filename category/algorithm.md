@@ -6,6 +6,6 @@ title: algorithm
 
 ---
 안녕
-{{ page.title }}
-{{ page.category }}
+{{ page.titlebv }}
+{{ page.categorybv }}
 {{ site.catrgories[catrgories] }}
