@@ -4,7 +4,6 @@ layout: default
 <ul class="posts-list">
   
   {% assign category = page.category | default: page.title %}
-  {{category}}
   {% for post in site.tags[test] %}
     <li>
       <h3>
