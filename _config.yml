@@ -14,11 +14,13 @@ author: Jungwook Kim
 navbar-links:
   About Me: "aboutme"
   알고리즘:
+	- 이론: category/algorithm
     - 백준: category/backjun
     - swexpert: category/swexpert
   프로그래밍:
     - 자바: category/java
     - html: category/html
+	- python: category/python
   simple project:
     - 채팅: category/chatting
     - github.io: category/blog
