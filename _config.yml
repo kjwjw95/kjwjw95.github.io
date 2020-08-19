@@ -20,7 +20,7 @@ navbar-links:
   프로그래밍:
     - 자바: category/java
     - html: category/html
-	- python: category/python
+    - python: category/python
   simple project:
     - 채팅: category/chatting
     - github.io: category/blog
