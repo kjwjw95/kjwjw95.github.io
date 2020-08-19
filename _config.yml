@@ -14,7 +14,7 @@ author: Jungwook Kim
 navbar-links:
   About Me: "aboutme"
   알고리즘:
-	- 이론: category/algorithm
+    - 이론: category/algorithm
     - 백준: category/backjun
     - swexpert: category/swexpert
   프로그래밍:
