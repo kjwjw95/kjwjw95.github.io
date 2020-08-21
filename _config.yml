@@ -18,7 +18,8 @@ navbar-links:
     - 백준: category/backjun
     - swexpert: category/swexpert
   프로그래밍:
-    - 자바: category/java
+    - 자바 이론: category/java
+    - 자바 자료: category/java_data
     - html: category/html
     - python: category/python
   simple project:
