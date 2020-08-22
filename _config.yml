@@ -22,11 +22,12 @@ navbar-links:
     - 자바 자료: category/java_data
     - html: category/html
     - python: category/python
-  simple project:
-    - 채팅: category/chatting
-    - github.io: category/blog
-  독서:
-    - 당신 지식의 한계 세계관: category/segyegwan
+  Diary: category/diary
+#  simple project:
+#    - 채팅: category/chatting
+#    - github.io: category/blog
+#  독서:
+#    - 당신 지식의 한계 세계관: category/segyegwan
   태그검색: tag/
 # --- Logo --- #
 
